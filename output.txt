@@ -1,0 +1,36 @@
+ history
+    1  cd ~
+    2  git clone https://github.com/Kamo-Lyime/task-1-prac.git
+    3  cd task-1-prac
+    4  git pull origin main
+    5  code .
+    6  echo "The shell is my translator to the OS"
+    7  Run the following commands:
+    8  pwd
+    9  ls
+   10  cd shell_arch_pract.md
+   11  cd Documents
+   12  cd ..
+   13  ls
+   14  cd task-1-prac
+   15  nano shell_intro.sh
+   16  nano shell_intro.sh
+   17  mkdir Documents
+   18  cd Documents
+   19  cd ..
+   20  chmod +x shell_intro.sh
+   21  chmod +x shell_intro.sh
+   22  ./shell_intro.sh
+   23  touch reflection.txt
+   24  echo "The purpose of a shell is a translator between you and the computer (CPU)" > reflection.txt
+   25  echo "I've learned that using the shell commands allows me to work fast and get results quickly without Graphical User Interface" > reflection.txt
+   26  echo "The purpose of a shell is a translator between you and the computer (CPU)" >> reflection.txt
+   27   echo "I've learned that using the shell commands allows me to work fast and get results quickly without Graphical User Interface" >> reflection.txt
+   28  echo "It was very intuitive because moving from one folder to another only requires you to use commands that navigate faster with out any delays" >> reflection.txt
+   29  echo "It was very intuitive because moving from one folder to another only requires you to use commands that navigate faster with out any delays" >> reflection.txt
+   30  echo "It was very intuitive because moving from one folder to another only requires you to use commands that navigate faster with out any delays" > reflection.txt
+   31  nano reflection.txt
+   32  nano reflection.txt
+   33  nano reflection.txt
+   34  nano reflection.txt
+   35  history
